@@ -1,3 +1,4 @@
+// GradeCalculator: reads 5 marks, skips invalid ones, prints each grade and the average of the valid marks.
 /*Inside main:
 use for loop, limit 5
 take input inside loop
