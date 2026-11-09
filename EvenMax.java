@@ -1,3 +1,5 @@
+// EvenMax: reads 5 numbers, counts how many are even and prints the largest, using methods.
+
 import java.util.Scanner;
 public class EvenMax
 {
